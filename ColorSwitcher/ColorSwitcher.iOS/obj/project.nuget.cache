@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9xwBNqXWr2km8srhgdWGS2qw4eBgxGeSsLueprWqI6XBvcqvSX7VASUd6F8JlMC22BwfZ+4l+bHnFC525nzqwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\edria\\source\\repos\\ColorSwitcher\\ColorSwitcher\\ColorSwitcher.iOS\\ColorSwitcher.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edria\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}

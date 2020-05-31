@@ -1,0 +1,14 @@
+C:\Users\edria\source\repos\ColorSwitcher\ColorSwitcher\ColorSwitcher\bin\Debug\netstandard2.0\ColorSwitcher.deps.json
+C:\Users\edria\source\repos\ColorSwitcher\ColorSwitcher\ColorSwitcher\bin\Debug\netstandard2.0\ColorSwitcher.dll
+C:\Users\edria\source\repos\ColorSwitcher\ColorSwitcher\ColorSwitcher\bin\Debug\netstandard2.0\ref\ColorSwitcher.dll
+C:\Users\edria\source\repos\ColorSwitcher\ColorSwitcher\ColorSwitcher\bin\Debug\netstandard2.0\ColorSwitcher.pdb
+C:\Users\edria\source\repos\ColorSwitcher\ColorSwitcher\ColorSwitcher\obj\Debug\netstandard2.0\ColorSwitcher.csprojAssemblyReference.cache
+C:\Users\edria\source\repos\ColorSwitcher\ColorSwitcher\ColorSwitcher\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\edria\source\repos\ColorSwitcher\ColorSwitcher\ColorSwitcher\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\edria\source\repos\ColorSwitcher\ColorSwitcher\ColorSwitcher\obj\Debug\netstandard2.0\ColorSwitcher.AssemblyInfoInputs.cache
+C:\Users\edria\source\repos\ColorSwitcher\ColorSwitcher\ColorSwitcher\obj\Debug\netstandard2.0\ColorSwitcher.AssemblyInfo.cs
+C:\Users\edria\source\repos\ColorSwitcher\ColorSwitcher\ColorSwitcher\obj\Debug\netstandard2.0\ColorSwitcher.csproj.CoreCompileInputs.cache
+C:\Users\edria\source\repos\ColorSwitcher\ColorSwitcher\ColorSwitcher\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\edria\source\repos\ColorSwitcher\ColorSwitcher\ColorSwitcher\obj\Debug\netstandard2.0\ColorSwitcher.dll
+C:\Users\edria\source\repos\ColorSwitcher\ColorSwitcher\ColorSwitcher\obj\Debug\netstandard2.0\ref\ColorSwitcher.dll
+C:\Users\edria\source\repos\ColorSwitcher\ColorSwitcher\ColorSwitcher\obj\Debug\netstandard2.0\ColorSwitcher.pdb
